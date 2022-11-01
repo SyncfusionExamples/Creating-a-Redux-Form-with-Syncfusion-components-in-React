@@ -1,0 +1,13 @@
+@import "../node_modules/@syncfusion/ej2-base/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-buttons/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-inputs/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-popups/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-react-calendars/styles/material.css";
+
+.login-form {
+  margin: 0 auto;
+  width: 300px;
+}
+.login-form .e-btn {
+  margin: 10px 0;
+}
